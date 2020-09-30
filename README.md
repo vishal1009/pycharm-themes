@@ -1,7 +1,7 @@
-TextMate themes for PyCharm
+TextMate Themes for PyCharm
 ===========================
 
-Current PyCharm version: 2016.2
+Current PyCharm version: 2020.2
 
 Themes for older versions check at [Releases](https://github.com/d1ffuz0r/pycharm-themes/releases) page
 
